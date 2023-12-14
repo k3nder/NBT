@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.kender</groupId>
-	<artifactId>NBT</artifactId>
-	<version>0.0.1</version>
+	<artifactId>nbt</artifactId>
+	<version>0.1</version>
 
 	<repositories>
 		<repository>
