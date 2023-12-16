@@ -41,7 +41,7 @@ public abstract class Tag<T> implements Cloneable {
 
 	private static final Map<String, String> ESCAPE_CHARACTERS;
 	static {
-		final Map<String, String> temp = new HashMap<>();
+		final Map<String, String> temp = new HashMap<String, String>();
 		temp.put("\\", "\\\\\\\\");
 		temp.put("\n", "\\\\n");
 		temp.put("\t", "\\\\t");
